@@ -27,6 +27,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "sqlite3"
 
   s.add_dependency "devise", ">= 3.2", '< 5.0'
-  s.add_dependency "grape", ">=  0.7", '< 2.0'
+  s.add_dependency "grape", ">=  0.7", '< 3.0'
   s.add_dependency "rails", ">= 4.0", '< 8.0'
 end
